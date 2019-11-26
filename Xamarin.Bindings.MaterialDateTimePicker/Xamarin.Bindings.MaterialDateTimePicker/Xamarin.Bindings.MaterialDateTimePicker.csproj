@@ -43,15 +43,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Additions\MonthViewTouchHelperAdditions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Jars\AboutJars.txt" />
     <None Include="Additions\AboutAdditions.txt" />
-    <LibraryProjectZip Include="Jars\materialdatetimepicker-2.5.0.aar" />
     <None Include="nuspec.nuspec" />
     <None Include="packages.config" />
+    <LibraryProjectZip Include="Jars\materialdatetimepicker-4.2.3.aar" />
   </ItemGroup>
   <ItemGroup>
     <TransformFile Include="Transforms\Metadata.xml" />
